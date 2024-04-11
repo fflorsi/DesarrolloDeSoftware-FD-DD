@@ -2,7 +2,8 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 51794 - Degiusti, Florencia
+* 50552 - Delgado, David A.
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
@@ -11,7 +12,7 @@
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+Nuestro proyecto es un sitio web para una Veterinaria, donde se podrán registrar mascotas y clientes, se listaran los prácticas pendientes y registrar las realizadas. Además, si una mascota necesita permanecer en hospitalización se registrarán las fechas y responsables a cargo. Se implementará un sistema de inicio de sesión que permitirá a los usuarios acceder a las funcionalidades correspondientes a su rol.
 
 ### Modelo
 ![imagen del modelo]()
